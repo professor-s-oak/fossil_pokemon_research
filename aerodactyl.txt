@@ -10,7 +10,7 @@ Hypothesis: Aerodactyl may have evolved from a Dwebble-like Pokémon, adapting o
 
 Date: October 14
 
-Discovered a generic key within the fossil data: X5IUrEuBIoBj5BgW7wAxd6LI7tcIFvt2. Its purpose is unclear, but it could be a code or reference to another study. Suspect it might be used to decrypt a secret message from Dwebble.
+Discovered a generic key within the fossil data: <secret key>. Its purpose is unclear, but it could be a code or reference to another study. Suspect it might be used to decrypt a secret message from Dwebble.
 
 Date: October 15
 
