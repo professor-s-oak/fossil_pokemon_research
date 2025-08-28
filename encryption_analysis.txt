@@ -1,0 +1,3 @@
+After further analysis, the encryption used seems like it has something to do with a very popular symmertic encryption algorithm. The Cipher Block Chaining mode of operation would fit nicely. 
+
+Since we only have the encryption key, there shouldn't be any initialization vector. 
